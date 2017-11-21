@@ -1,0 +1,8 @@
+<suite name="Suite1" verbose="1" >
+  <test name="Maven" >
+    <classes>
+       <class name="Demo.Cla" />
+    </classes>
+  </test>
+</suite>
+  
